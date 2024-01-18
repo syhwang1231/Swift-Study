@@ -1,0 +1,6 @@
+framework module Pods_BeRealCloneCoding_BeRealCloneCodingUITests {
+  umbrella header "Pods-BeRealCloneCoding-BeRealCloneCodingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

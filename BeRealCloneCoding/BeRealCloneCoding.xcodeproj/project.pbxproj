@@ -16,6 +16,9 @@
 		08B79E3F2B59938B0033D4D0 /* BeRealCloneCodingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B79E3E2B59938B0033D4D0 /* BeRealCloneCodingTests.swift */; };
 		08B79E492B59938B0033D4D0 /* BeRealCloneCodingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B79E482B59938B0033D4D0 /* BeRealCloneCodingUITests.swift */; };
 		08B79E4B2B59938B0033D4D0 /* BeRealCloneCodingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B79E4A2B59938B0033D4D0 /* BeRealCloneCodingUITestsLaunchTests.swift */; };
+		0C3F6C322454284495B0CD28 /* Pods_BeRealCloneCoding.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAF2569D8544503FFCA500A1 /* Pods_BeRealCloneCoding.framework */; };
+		3EFEF74B9E9FB56AA6B10BA8 /* Pods_BeRealCloneCoding_BeRealCloneCodingUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2109EC9CBA6B9180E26500CA /* Pods_BeRealCloneCoding_BeRealCloneCodingUITests.framework */; };
+		ACB5A33272ED0B9E63C04D6E /* Pods_BeRealCloneCodingTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D31E609F4E329C8CE85CFA93 /* Pods_BeRealCloneCodingTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,15 @@
 		08B79E442B59938B0033D4D0 /* BeRealCloneCodingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeRealCloneCodingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		08B79E482B59938B0033D4D0 /* BeRealCloneCodingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeRealCloneCodingUITests.swift; sourceTree = "<group>"; };
 		08B79E4A2B59938B0033D4D0 /* BeRealCloneCodingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeRealCloneCodingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1A577A209EB4DF7826842A38 /* Pods-BeRealCloneCoding.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BeRealCloneCoding.debug.xcconfig"; path = "Target Support Files/Pods-BeRealCloneCoding/Pods-BeRealCloneCoding.debug.xcconfig"; sourceTree = "<group>"; };
+		2109EC9CBA6B9180E26500CA /* Pods_BeRealCloneCoding_BeRealCloneCodingUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BeRealCloneCoding_BeRealCloneCodingUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		269E655CE193DE9DDBDFEDC7 /* Pods-BeRealCloneCoding-BeRealCloneCodingUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BeRealCloneCoding-BeRealCloneCodingUITests.release.xcconfig"; path = "Target Support Files/Pods-BeRealCloneCoding-BeRealCloneCodingUITests/Pods-BeRealCloneCoding-BeRealCloneCodingUITests.release.xcconfig"; sourceTree = "<group>"; };
+		5850A8108E6E6FF48C538BE5 /* Pods-BeRealCloneCodingTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BeRealCloneCodingTests.debug.xcconfig"; path = "Target Support Files/Pods-BeRealCloneCodingTests/Pods-BeRealCloneCodingTests.debug.xcconfig"; sourceTree = "<group>"; };
+		A3891FE356B22DDDEF620BB1 /* Pods-BeRealCloneCodingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BeRealCloneCodingTests.release.xcconfig"; path = "Target Support Files/Pods-BeRealCloneCodingTests/Pods-BeRealCloneCodingTests.release.xcconfig"; sourceTree = "<group>"; };
+		B1C5DD8175FAC0F6D2B97F41 /* Pods-BeRealCloneCoding.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BeRealCloneCoding.release.xcconfig"; path = "Target Support Files/Pods-BeRealCloneCoding/Pods-BeRealCloneCoding.release.xcconfig"; sourceTree = "<group>"; };
+		D31E609F4E329C8CE85CFA93 /* Pods_BeRealCloneCodingTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BeRealCloneCodingTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAF8115896BD3A105F3FD56A /* Pods-BeRealCloneCoding-BeRealCloneCodingUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BeRealCloneCoding-BeRealCloneCodingUITests.debug.xcconfig"; path = "Target Support Files/Pods-BeRealCloneCoding-BeRealCloneCodingUITests/Pods-BeRealCloneCoding-BeRealCloneCodingUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		FAF2569D8544503FFCA500A1 /* Pods_BeRealCloneCoding.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BeRealCloneCoding.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C3F6C322454284495B0CD28 /* Pods_BeRealCloneCoding.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACB5A33272ED0B9E63C04D6E /* Pods_BeRealCloneCodingTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EFEF74B9E9FB56AA6B10BA8 /* Pods_BeRealCloneCoding_BeRealCloneCodingUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +98,8 @@
 				08B79E3D2B59938B0033D4D0 /* BeRealCloneCodingTests */,
 				08B79E472B59938B0033D4D0 /* BeRealCloneCodingUITests */,
 				08B79E252B59938A0033D4D0 /* Products */,
+				E5B518E57D50DF628EBBC6D9 /* Pods */,
+				437C8BDEB385D675353D9135 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,9 +116,12 @@
 		08B79E262B59938A0033D4D0 /* BeRealCloneCoding */ = {
 			isa = PBXGroup;
 			children = (
+				08B79E5A2B59942E0033D4D0 /* ViewController */,
+				08B79E592B5994270033D4D0 /* ViewModel */,
+				08B79E582B5994200033D4D0 /* Model */,
+				08B79E572B5994180033D4D0 /* View */,
 				08B79E272B59938A0033D4D0 /* AppDelegate.swift */,
 				08B79E292B59938A0033D4D0 /* SceneDelegate.swift */,
-				08B79E2B2B59938A0033D4D0 /* ViewController.swift */,
 				08B79E2D2B59938A0033D4D0 /* Main.storyboard */,
 				08B79E302B59938B0033D4D0 /* Assets.xcassets */,
 				08B79E322B59938B0033D4D0 /* LaunchScreen.storyboard */,
@@ -127,6 +147,58 @@
 			path = BeRealCloneCodingUITests;
 			sourceTree = "<group>";
 		};
+		08B79E572B5994180033D4D0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		08B79E582B5994200033D4D0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		08B79E592B5994270033D4D0 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		08B79E5A2B59942E0033D4D0 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				08B79E2B2B59938A0033D4D0 /* ViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		437C8BDEB385D675353D9135 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FAF2569D8544503FFCA500A1 /* Pods_BeRealCloneCoding.framework */,
+				2109EC9CBA6B9180E26500CA /* Pods_BeRealCloneCoding_BeRealCloneCodingUITests.framework */,
+				D31E609F4E329C8CE85CFA93 /* Pods_BeRealCloneCodingTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E5B518E57D50DF628EBBC6D9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1A577A209EB4DF7826842A38 /* Pods-BeRealCloneCoding.debug.xcconfig */,
+				B1C5DD8175FAC0F6D2B97F41 /* Pods-BeRealCloneCoding.release.xcconfig */,
+				EAF8115896BD3A105F3FD56A /* Pods-BeRealCloneCoding-BeRealCloneCodingUITests.debug.xcconfig */,
+				269E655CE193DE9DDBDFEDC7 /* Pods-BeRealCloneCoding-BeRealCloneCodingUITests.release.xcconfig */,
+				5850A8108E6E6FF48C538BE5 /* Pods-BeRealCloneCodingTests.debug.xcconfig */,
+				A3891FE356B22DDDEF620BB1 /* Pods-BeRealCloneCodingTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -134,9 +206,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 08B79E4E2B59938B0033D4D0 /* Build configuration list for PBXNativeTarget "BeRealCloneCoding" */;
 			buildPhases = (
+				B23ADFF4B0BD583D0D05C7FB /* [CP] Check Pods Manifest.lock */,
 				08B79E202B59938A0033D4D0 /* Sources */,
 				08B79E212B59938A0033D4D0 /* Frameworks */,
 				08B79E222B59938A0033D4D0 /* Resources */,
+				C5DE8D2E862BEBA0CA75E67C /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -151,6 +225,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 08B79E512B59938B0033D4D0 /* Build configuration list for PBXNativeTarget "BeRealCloneCodingTests" */;
 			buildPhases = (
+				C20B3990D19E4B58C2E2F622 /* [CP] Check Pods Manifest.lock */,
 				08B79E362B59938B0033D4D0 /* Sources */,
 				08B79E372B59938B0033D4D0 /* Frameworks */,
 				08B79E382B59938B0033D4D0 /* Resources */,
@@ -169,9 +244,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 08B79E542B59938B0033D4D0 /* Build configuration list for PBXNativeTarget "BeRealCloneCodingUITests" */;
 			buildPhases = (
+				8974ECD90EF17BB838616D75 /* [CP] Check Pods Manifest.lock */,
 				08B79E402B59938B0033D4D0 /* Sources */,
 				08B79E412B59938B0033D4D0 /* Frameworks */,
 				08B79E422B59938B0033D4D0 /* Resources */,
+				2BC62D5F654B9AFFD592CD23 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -252,6 +329,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2BC62D5F654B9AFFD592CD23 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BeRealCloneCoding-BeRealCloneCodingUITests/Pods-BeRealCloneCoding-BeRealCloneCodingUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BeRealCloneCoding-BeRealCloneCodingUITests/Pods-BeRealCloneCoding-BeRealCloneCodingUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BeRealCloneCoding-BeRealCloneCodingUITests/Pods-BeRealCloneCoding-BeRealCloneCodingUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8974ECD90EF17BB838616D75 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BeRealCloneCoding-BeRealCloneCodingUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B23ADFF4B0BD583D0D05C7FB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BeRealCloneCoding-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C20B3990D19E4B58C2E2F622 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BeRealCloneCodingTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C5DE8D2E862BEBA0CA75E67C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BeRealCloneCoding/Pods-BeRealCloneCoding-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BeRealCloneCoding/Pods-BeRealCloneCoding-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BeRealCloneCoding/Pods-BeRealCloneCoding-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		08B79E202B59938A0033D4D0 /* Sources */ = {
@@ -437,6 +617,7 @@
 		};
 		08B79E4F2B59938B0033D4D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1A577A209EB4DF7826842A38 /* Pods-BeRealCloneCoding.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -464,6 +645,7 @@
 		};
 		08B79E502B59938B0033D4D0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B1C5DD8175FAC0F6D2B97F41 /* Pods-BeRealCloneCoding.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -491,6 +673,7 @@
 		};
 		08B79E522B59938B0033D4D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5850A8108E6E6FF48C538BE5 /* Pods-BeRealCloneCodingTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -510,6 +693,7 @@
 		};
 		08B79E532B59938B0033D4D0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A3891FE356B22DDDEF620BB1 /* Pods-BeRealCloneCodingTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -529,6 +713,7 @@
 		};
 		08B79E552B59938B0033D4D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EAF8115896BD3A105F3FD56A /* Pods-BeRealCloneCoding-BeRealCloneCodingUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -546,6 +731,7 @@
 		};
 		08B79E562B59938B0033D4D0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 269E655CE193DE9DDBDFEDC7 /* Pods-BeRealCloneCoding-BeRealCloneCodingUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
